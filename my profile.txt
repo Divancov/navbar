@@ -5,3 +5,4 @@ Nice to meet you here, i hope you can enjoy my build navbar, but for the first i
 Name  : Divancov
 Age   : 26th
 Job   : Full Stack Programmer
+Hobby : Interesting in AI, IOT, & Web Tecnology
