@@ -1,0 +1,6 @@
+Hello guys...
+
+For use this Navbar, just copy it from the file index and intregated it with the asset folder.
+
+Best Regrads
+Divancov :)
