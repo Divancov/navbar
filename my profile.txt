@@ -6,6 +6,7 @@ Name  : Divancov
 Age   : 26th
 Job   : Full Stack Programmer
 Hobby : Interesting in AI, IOT, & Web Technology
+Program Language  : PHP,Python,Java
 
 Best Regards
 Divancov
